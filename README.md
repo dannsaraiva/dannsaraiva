@@ -21,10 +21,4 @@
     <img align="center" alt="Dan-Csharp" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Dan-Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />         
 </div>
-
-#
-
- ![Snake animation](https://github.com/DannSaraiva/DannSaraiva/blob/output/github-contribution-grid-snake.svg)
-
-
 </div>
