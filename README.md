@@ -1,7 +1,7 @@
 ### Hi, i am Daniel Saraiva👋
 
 - 🎓 I am currently studying - System Development Technician at ETEC Antônio Furlan - Barueri.
-- 🔭 My goal at the moment is to become a Development Front End.
+- 🔭 My goal at the moment is to become a Development Full Stack.
 
 #
 
