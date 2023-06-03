@@ -23,4 +23,7 @@
     <img align="center" alt="Dan-Flutter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Dan-Dart" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 </div>
+    
+    
+    ![snake gif](https://github.com/dannsaraiva/dannsaraiva/blob/output/github-contribution-grid-snake.svg)
 </div>
