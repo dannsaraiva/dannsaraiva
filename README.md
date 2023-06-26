@@ -22,6 +22,7 @@
     <img align="center" alt="Dan-Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>      
     <img align="center" alt="Dan-Flutter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
     <img align="center" alt="Dan-Dart" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+    <img align="center" alt="Dan-Firebase" height="35" width="45" src="https://avatars.githubusercontent.com/u/1335026?v=4"/>
 </div>
     
     
